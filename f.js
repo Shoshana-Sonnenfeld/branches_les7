@@ -1,0 +1,3 @@
+const it = ()=>{
+    alert("hello")
+}
